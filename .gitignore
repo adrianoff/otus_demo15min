@@ -1,0 +1,12 @@
+#OS-IDE-ignore
+/nbproject/*
+/.subversion/
+/.idea/
+/.hg/*
+Thumbs.db
+.DS_Store
+
+/volumes/db/data/
+
+/docker/php-fpm/local.ini
+/docker/.env
